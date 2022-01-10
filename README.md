@@ -1,2 +1,2 @@
-# cprojects 
-All projects are written in C and are extremely basic programs. 
+# cshell
+A extremely simple shell - Written in C
